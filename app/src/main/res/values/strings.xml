@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Beacon Configurator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scanning">ScanningActivity</string>
+    <string name="title_activity_eddystone_management">EddystoneManagementActivity</string>
+    <string name="title_activity_i_beacon_management">iBeaconManagementActivity</string>
+</resources>
